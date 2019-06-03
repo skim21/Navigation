@@ -37,3 +37,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+If an error encountered when opening the Unity environment in Part 4, restart and clear kernel and start from Part 4. 
