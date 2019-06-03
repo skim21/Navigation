@@ -2,6 +2,13 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
+## This is the 1st project submitted as part of UDACITY Deep Reinforcement Learning Nanodegree. The Unity environment was given. Some solutions from the UDACITY Class were used in this solution. They are dqn-agent.py and model.py. The latter (model.py) is used to construct the deep learning model using pytorch. The former (dqn-agent.py) is used to initiate the agent that outputs action from an input state. It uses soft update, epsilon greedy action selection, and replay buffer. The final solution was obtained by tweaking hyper-parameters such as replay buffer size, soft update of target parameter, and learning rate. <br />
+
+## How to run: Open Navigation.ipynb and run all the shells. Use Part 4 to train the dqn model and show the trained environment.
+
+## For more information: Read the following for more details. 
+
+
 # Project 1: Navigation
 
 ### Introduction
