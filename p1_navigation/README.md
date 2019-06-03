@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This is the 1st project submitted as part of UDACITY Deep Reinforcement Learning Nanodegree. The Unity environment was given. Some solutions from the UDACITY Class were used in this solution. They are dqn-agent.py and model.py. The latter (model.py) is used to construct the deep learning model using pytorch. The former (dqn-agent.py) is used to initiate the agent that outputs action from an input state. It uses soft update, epsilon greedy action selection, and replay buffer. The final solution was obtained by tweaking hyper-parameters such as replay buffer size, soft update of target parameter, and learning rate. <br /> 
+This is the 1st project submitted as part of UDACITY Deep Reinforcement Learning Nanodegree. The Unity environment was given. Some solutions from the UDACITY Class (see dqn folder) were used in this solution. They are dqn-agent.py and model.py. The latter (model.py) is used to construct the deep learning model using pytorch. The former (dqn-agent.py) is used to initiate the agent that outputs action from an input state. It uses soft update, epsilon greedy action selection, and replay buffer. The final solution was obtained by tweaking hyper-parameters such as replay buffer size, soft update of target parameter, and learning rate. <br /> 
 
 ![Trained Agent][image1]
 
